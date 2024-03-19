@@ -3,7 +3,7 @@
 
 Welcome to Flixxit, your personal streaming experience built with the MERN stack. Flixxit aims to bring the best of OTT platforms to your fingertips.
 
-
+Live link : https://flixxit-stream.vercel.app
 
 
 ## Table of  Contents
