@@ -2,6 +2,5 @@
     --theme-color:#0b0b0b
   }
    body{
-   
     background-color: var(--theme-color);
    }
