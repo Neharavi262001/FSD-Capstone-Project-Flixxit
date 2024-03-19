@@ -29,8 +29,6 @@
 .list-item:hover{
   width: 240px;
   transform: translateX(-5px);
- 
-
 }
 
 .list-item:hover .item-info {
